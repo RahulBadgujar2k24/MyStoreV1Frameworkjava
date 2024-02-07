@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.mystore.utilities.ExtentListenerClass"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="com.mystore.TestScript.TC04_ShopingPageTest">
+        <methods>
+          <include name="tearup"/>
+          <include name="shopping"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.mystore.TestScript.TC04_ShopingPageTest -->
+      <class name="com.mystore.TestScript.TC02_RegistrationPageTest">
+        <methods>
+          <include name="tearup"/>
+          <include name="addcredentials"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.mystore.TestScript.TC02_RegistrationPageTest -->
+      <class name="com.mystore.TestScript.TC01_MyAccountPageTest">
+        <methods>
+          <include name="navigateRegestration"/>
+          <include name="tearup"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.mystore.TestScript.TC01_MyAccountPageTest -->
+      <class name="com.mystore.TestScript.TC03_LoginPageTest">
+        <methods>
+          <include name="tearup"/>
+          <include name="setup"/>
+          <include name="verifyLogin"/>
+        </methods>
+      </class> <!-- com.mystore.TestScript.TC03_LoginPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

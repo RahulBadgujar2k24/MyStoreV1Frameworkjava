@@ -1,0 +1,56 @@
+[INFO ] 2024-02-07 23:26:46.317 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-07 23:26:54.677 [main] MyStoreV1 - click on signIn Link
+[INFO ] 2024-02-07 23:26:54.942 [main] MyStoreV1 - enter valid uid
+[INFO ] 2024-02-07 23:26:55.127 [main] MyStoreV1 - enter valid pass
+[INFO ] 2024-02-07 23:26:56.606 [main] MyStoreV1 - click on login button
+[INFO ] 2024-02-07 23:26:56.668 [main] MyStoreV1 - verify login -passed
+[INFO ] 2024-02-07 23:26:58.064 [main] MyStoreV1 - signout 
+[INFO ] 2024-02-07 23:27:02.799 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-07 23:27:15.818 [main] MyStoreV1 - click on signIn Link
+[INFO ] 2024-02-07 23:27:27.658 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-07 23:27:30.172 [main] MyStoreV1 - click on signIn Link
+[INFO ] 2024-02-07 23:27:31.824 [main] MyStoreV1 - gender select
+[INFO ] 2024-02-07 23:27:31.971 [main] MyStoreV1 - enter firstname
+[INFO ] 2024-02-07 23:27:32.163 [main] MyStoreV1 - enter lastname
+[INFO ] 2024-02-07 23:27:32.460 [main] MyStoreV1 - enter emailid
+[INFO ] 2024-02-07 23:27:32.604 [main] MyStoreV1 - enter password
+[INFO ] 2024-02-07 23:27:33.666 [main] MyStoreV1 - select date of birth
+[INFO ] 2024-02-07 23:27:33.743 [main] MyStoreV1 - select news letter option
+[INFO ] 2024-02-07 23:27:45.423 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-07 23:27:48.146 [main] MyStoreV1 - click on signIn Link
+[INFO ] 2024-02-07 23:27:48.446 [main] MyStoreV1 - enter valid uid
+[INFO ] 2024-02-07 23:27:48.604 [main] MyStoreV1 - enter valid pass
+[INFO ] 2024-02-07 23:27:49.998 [main] MyStoreV1 - click on login button
+[INFO ] 2024-02-07 23:27:51.725 [main] MyStoreV1 - click on search button
+[INFO ] 2024-02-07 23:27:53.701 [main] MyStoreV1 - select the product
+[INFO ] 2024-02-07 23:27:54.110 [main] MyStoreV1 - select size product
+[INFO ] 2024-02-07 23:27:54.374 [main] MyStoreV1 - select qty product
+[INFO ] 2024-02-07 23:27:57.544 [main] MyStoreV1 - add to product
+[INFO ] 2024-02-07 23:28:48.578 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-07 23:29:04.473 [main] MyStoreV1 - click on signIn Link
+[INFO ] 2024-02-07 23:29:04.798 [main] MyStoreV1 - enter valid uid
+[INFO ] 2024-02-07 23:29:04.972 [main] MyStoreV1 - enter valid pass
+[INFO ] 2024-02-07 23:29:06.396 [main] MyStoreV1 - click on login button
+[INFO ] 2024-02-07 23:29:06.493 [main] MyStoreV1 - verify login -passed
+[INFO ] 2024-02-07 23:29:08.035 [main] MyStoreV1 - signout 
+[INFO ] 2024-02-07 23:29:12.127 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-07 23:29:24.730 [main] MyStoreV1 - click on signIn Link
+[INFO ] 2024-02-07 23:29:37.498 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-07 23:29:39.796 [main] MyStoreV1 - click on signIn Link
+[INFO ] 2024-02-07 23:29:41.332 [main] MyStoreV1 - gender select
+[INFO ] 2024-02-07 23:29:41.459 [main] MyStoreV1 - enter firstname
+[INFO ] 2024-02-07 23:29:41.604 [main] MyStoreV1 - enter lastname
+[INFO ] 2024-02-07 23:29:41.835 [main] MyStoreV1 - enter emailid
+[INFO ] 2024-02-07 23:29:42.028 [main] MyStoreV1 - enter password
+[INFO ] 2024-02-07 23:29:43.730 [main] MyStoreV1 - select date of birth
+[INFO ] 2024-02-07 23:29:43.828 [main] MyStoreV1 - select news letter option
+[INFO ] 2024-02-07 23:30:20.571 [main] MyStoreV1 - url opened
+[INFO ] 2024-02-07 23:30:23.910 [main] MyStoreV1 - click on signIn Link
+[INFO ] 2024-02-07 23:30:24.111 [main] MyStoreV1 - enter valid uid
+[INFO ] 2024-02-07 23:30:24.280 [main] MyStoreV1 - enter valid pass
+[INFO ] 2024-02-07 23:30:25.725 [main] MyStoreV1 - click on login button
+[INFO ] 2024-02-07 23:30:27.354 [main] MyStoreV1 - click on search button
+[INFO ] 2024-02-07 23:30:29.252 [main] MyStoreV1 - select the product
+[INFO ] 2024-02-07 23:30:29.461 [main] MyStoreV1 - select size product
+[INFO ] 2024-02-07 23:30:29.759 [main] MyStoreV1 - select qty product
+[INFO ] 2024-02-07 23:30:32.812 [main] MyStoreV1 - add to product
